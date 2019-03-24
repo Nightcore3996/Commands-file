@@ -2,7 +2,7 @@
 *@file owner Thomas Weland
 *@type discord.js
 *@npm 0 no module needed :
-*@five put this in your main file [main.js]
+*@file put this in your main file [main.js]
 
 */
 
