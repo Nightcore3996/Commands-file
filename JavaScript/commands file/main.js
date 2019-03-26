@@ -1,11 +1,17 @@
 /*
 *@file owner Thomas Weland
 *@type discord.js
-*@npm 0 no module needed :
+*@npm 1 no module needed : fs (npm i fs)
 *@file put this in your main file [main.js]
 
 */
 
+
+const Discord = require('discord.js');
+const bot = new Discord.Client();
+const fs = require("fs");
+
+ var prefix = ('YOUR PREFIX');
 
 
 bot.commands = new Discord.Collection();
