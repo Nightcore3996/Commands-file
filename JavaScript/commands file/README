@@ -1,8 +1,0 @@
-Hi, 
-If you use shorts commands you may install this thing in your main.js folder
-
-- First create a folder an named it "commands"
-- Second put any command  like "clear.js" (you can find this command in my repositories) inside the folder commands
-- Third start the bot and look at your console, you may see that clear.js has been loaded.
-
-Enjoy !
