@@ -5,6 +5,7 @@
 
 - npm i discord.js
 - npm i node.js
+- nom i fs
 
 # File
 
